@@ -66,3 +66,58 @@ Selanjutnya pilih **2** untuk kembali ke menu utama
 
 <hr>
 
+**3. Menu Mengedit Produk Yang Sudah Tersedia**
+
+Jika user ingin mengedit data yang sudah ada, maka user dapat memilih angka **3**, seperti pada gambar di bawah ini :
+![pilih31](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/pilih%201%20untuk%20mengedit%20persediaan.JPG)
+
+Pilih **1** untuk Mengedit Data Persediaan, Lalu masukan Kode Produknya. Jika Kode Produk yang dimasukan tidak sesuai maka akan keluar informasi seperti berikut :
+![pilih32](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/kode%20yang%20di%20cari%20tidak%20ada.JPG)
+
+Jika kode yang di input tersedia datanya maka akan menampilkan data dari kode tersebut beserta daftar edit nya seperti gambar berikut :
+![pilih33](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/kode%20yang%20di%20cari%20ada.JPG)
+
+Jika user ingin mengupdate **Kode Produk** maka pilih 1, lalu Konfirmasi akan menyimpan update data dengan memilih **Y**, lalu baru user dapat mengupdate data dengan memasukan kode terbaru.
+![pilih34](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/update%20harga%20produk.JPG)
+
+Jika user ingin mengupdate **Nama Produk** maka pilih 2, lalu Konfirmasi akan menyimpan update data dengan memilih **Y**, lalu baru user dapat mengupdate data dengan memasukan nama produk terbaru.
+![pilih35](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/update%20nama%20produk.JPG)
+
+Jika user ingin mengupdate **Merk Produk** maka pilih 3, lalu Konfirmasi akan menyimpan update data dengan memilih **Y**, lalu baru user dapat mengupdate data dengan memasukan merk produk terbaru.
+![pilih36](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/update%20merk%20produk.JPG)
+
+Jika user ingin mengupdate **Warna Produk** maka pilih 4, lalu konfirmasi akan menyimpan update data dengan memilih **Y**, lalu baru user dapat mengupdate data dengan memasukan warna produk terbaru.
+![pilih37](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/update%20warna%20produk.JPG)
+
+Jika user ingin mengupdate **Jumlah Stock Produk** maka pilih 4, lalu konfirmasi akan menyimpan update data dengan memilih **Y**, lalu baru user dapat mengupdate data dengan memasukan jumlah stock produk terbaru.
+![pilih38](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/update%20jumlah%20produk.JPG)
+
+Jika user ingin mengupdate **Harga terbaru** maka pilih 4, lalu konfirmasi akan menyimpan update data dengan memilih **Y**, lalu baru user dapat mengupdate data dengan memasukan jumlah stock produk terbaru. 
+![pilih39](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/update%20harga%20produk.JPG)
+
+Jika user telah selesai melakukan update data dan ingin kembali ke menu utama pilih angka **7** lalu user memilih angka **2**.
+![pilih40](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/keluar%20dari%20menu%203.JPG)
+
+<hr>
+**4. Menghapus Data Produk**
+
+Jika User ingin melakukan penghapusan data , user dapat memilih menu nomor **4**, 
+![pilih40](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/menu%204.JPG)
+
+Kemudian user dapat memilih angka **1** untuk masuk ke menu penghapusan produk, lalu user dapat mengisi **Kode Produk** yang benar, jika kode produk yang user input  tidak benar maka akan keluar informasi sebagai berikut :
+![pilih41](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/tidak%20ada%20data%20nya.JPG)
+
+Namun jika kode yang user input **tersedia**, maka akan keluar informasi seperti gambar dibawah ini dan user dapat menginput **Y** jika ingin menghapus data dan input **T** jika tidak ingin menginput data.
+![pilih42](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/kode%20ada%20lalu%20yes.JPG)
+
+Jika data berhasil di hapus maka akan keluar informasi seperti gambar dibawah ini, dan jika user ingin kembali ke menu utama dapat memilih angka **2**
+![pilih43](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/berhasil%20hapus%20data.JPG)
+
+**5. Keluar Dari Aplikasi**
+Jika user ingin keluar dari aplikasi dapat memilih nomor **5. Exit**
+![pilih5](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/end.JPG)
+
+
+<hr>
+
+[LinkedIn](hhttps://www.linkedin.com/in/m-alfarisy97/) | [Dashboard Portofolio Tableu](https://public.tableau.com/app/profile/muhammad.al.farisy6147) | [Github](https://github.com/mhdalfarisy)| 
