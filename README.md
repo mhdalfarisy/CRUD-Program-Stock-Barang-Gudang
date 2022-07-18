@@ -120,4 +120,4 @@ Jika user ingin keluar dari aplikasi dapat memilih nomor **5. Exit**
 
 <hr>
 
-[LinkedIn](hhttps://www.linkedin.com/in/m-alfarisy97/) | [Dashboard Portofolio Tableu](https://public.tableau.com/app/profile/muhammad.al.farisy6147) | [Github](https://github.com/mhdalfarisy)| 
+[![LinkedIn](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/Linkedin.jpg)](https://github.com/JeffreyJuinior/CRUD-Hospital-Patient-Python)
