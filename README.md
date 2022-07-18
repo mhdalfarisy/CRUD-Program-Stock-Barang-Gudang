@@ -123,8 +123,7 @@ Jika user ingin keluar dari aplikasi dapat memilih nomor **5. Exit**
 <hr>
 
 # Mari berkenalan :heavy_check_mark:
-[![LinkedIn](https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/linkedin.png)]=
-(https://www.linkedin.com/in/m-alfarisy97/)]
+[![Avenger](https://wallpaperaccess.com/full/2086922.jpg)](https://www.solopos.com/wow-tangkapan-ikan-hiu-di-cilacap-capai-90-ton-1240574)
 
 
 # Portofolio Coding :heavy_check_mark:
