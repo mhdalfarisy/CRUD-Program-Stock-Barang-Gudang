@@ -123,7 +123,7 @@ Jika user ingin keluar dari aplikasi dapat memilih nomor **5. Exit**
 <hr>
 
 # Mari berkenalan :heavy_check_mark:
-[![Avenger](https://wallpaperaccess.com/full/2086922.jpg)](https://www.linkedin.com/in/m-alfarisy97/)
+[![Avenger](https://www.pngegg.com/id/png-zicci)](https://www.linkedin.com/in/m-alfarisy97/)
 
 
 # Portofolio Coding :heavy_check_mark:
