@@ -123,7 +123,7 @@ Jika user ingin keluar dari aplikasi dapat memilih nomor **5. Exit**
 <hr>
 
 # Mari berkenalan :heavy_check_mark:
-[![LinkedIn](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/Linkedin.jpg)]
+[![LinkedIn](https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/Linkedin.jpg)]
 (https://www.linkedin.com/in/m-alfarisy97/)
 
 <hr>
