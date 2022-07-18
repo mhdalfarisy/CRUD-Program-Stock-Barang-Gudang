@@ -127,8 +127,7 @@ Jika user ingin keluar dari aplikasi dapat memilih nomor **5. Exit**
 
 
 # Portofolio Coding :heavy_check_mark:
-[![Github](https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/github-logo-tile.png)]
-(https://github.com/mhdalfarisy)
+[![Github](https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/github-logo-tile.png)](https://github.com/mhdalfarisy)
 
 
 # Portofolio Visualisasi :heavy_check_mark:
