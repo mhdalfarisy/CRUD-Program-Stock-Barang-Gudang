@@ -122,8 +122,9 @@ Jika user ingin keluar dari aplikasi dapat memilih nomor **5. Exit**
 
 <hr>
 
-# Connect dengan saya di :
-[![LinkedIn](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/Linkedin.jpg)](hhttps://www.linkedin.com/in/m-alfarisy97/)
+# Mari berkenalan :heavy_check_mark:
+[![LinkedIn](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/Linkedin.jpg)]
+(https://www.linkedin.com/in/m-alfarisy97/)
 
 <hr>
 
