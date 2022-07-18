@@ -187,7 +187,7 @@ def updatedataterbaru():
                         konfirmasi = str(input("Apakah anda Yakin Mengupdate Data (Y/T) : ").upper())
                         if konfirmasi == "Y":
                             stock_Gudang[i]["NAMA PRODUK"] = str(input("Input NAMA PRODUK Baru : ").upper())
-                            print("\n**KODE BERHASIL DI UPDATE**\n")
+                            print("\n**NAMA PRODUK BERHASIL DI UPDATE**\n")
                             print(" Nomor\t| KODE\t \t| NAMA PRODUK\t | MERK\t \t| WARNA\t\t| STOCK\t\t| HARGA\t")
                             daftar_data_persediaan(i)
                         elif konfirmasi == "T":
@@ -199,7 +199,7 @@ def updatedataterbaru():
                         konfirmasi = str(input("Apakah anda Yakin Mengupdate Data (Y/T) : ").upper())
                         if konfirmasi == "Y":
                             stock_Gudang[i]["MERK"] = str(input("Input MERK PRODUK Baru : ").upper())
-                            print("\n**KODE BERHASIL DI UPDATE**\n")
+                            print("\n**MERK PRODUK BERHASIL DI UPDATE**\n")
                             print(" Nomor\t| KODE\t \t| NAMA PRODUK\t | MERK\t \t| WARNA\t\t| STOCK\t\t| HARGA\t")
                             daftar_data_persediaan(i)
                         elif konfirmasi == "T":
@@ -212,7 +212,7 @@ def updatedataterbaru():
                         konfirmasi = str(input("Apakah anda Yakin Mengupdate Data (Y/T) : ").upper())
                         if konfirmasi == "Y":
                             stock_Gudang[i]["WARNA"] = str(input("Input WARNA PRODUK Baru : ").upper())
-                            print("\n**KODE BERHASIL DI UPDATE**\n")
+                            print("\n**WARNA PRODUK BERHASIL DI UPDATE**\n")
                             print(" Nomor\t| KODE\t \t| NAMA PRODUK\t | MERK\t \t| WARNA\t\t| STOCK\t\t| HARGA\t")
                             daftar_data_persediaan(i)
                         elif konfirmasi == "T":
@@ -225,7 +225,7 @@ def updatedataterbaru():
                         konfirmasi = str(input("Apakah anda Yakin Mengupdate Data (Y/T) : ").upper())
                         if konfirmasi == "Y":
                             stock_Gudang[i]["STOCK"] = str(input("Input STOCK PRODUK Baru : ").upper())
-                            print("\n**KODE BERHASIL DI UPDATE**\n")
+                            print("\n**STOCK PRODUK BARU BERHASIL DI UPDATE**\n")
                             print(" Nomor\t| KODE\t \t| NAMA PRODUK\t | MERK\t \t| WARNA\t\t| STOCK\t\t| HARGA\t")
                             daftar_data_persediaan(i)
                         elif konfirmasi == "T":
@@ -237,7 +237,7 @@ def updatedataterbaru():
                         konfirmasi = str(input("Apakah anda Yakin Mengupdate Data (Y/T) : ").upper())
                         if konfirmasi == "Y":
                             stock_Gudang[i]["HARGA"] = str(input("Input HARGA PRODUK Baru : ").upper())
-                            print("\n**KODE BERHASIL DI UPDATE**\n")
+                            print("\n**HARGA PRODUK BERHASIL DI UPDATE**\n")
                             print(" Nomor\t| KODE\t \t| NAMA PRODUK\t | MERK\t \t| WARNA\t\t| STOCK\t\t| HARGA\t")
                             daftar_data_persediaan(i)
                         elif konfirmasi == "T":
