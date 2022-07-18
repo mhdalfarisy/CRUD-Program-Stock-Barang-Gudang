@@ -123,8 +123,8 @@ Jika user ingin keluar dari aplikasi dapat memilih nomor **5. Exit**
 <hr>
 
 # Mari berkenalan :heavy_check_mark:
-[![LinkedIn](https://www.linkedin.com/in/m-alfarisy97/)]
-(https://www.linkedin.com/in/m-alfarisy97/)
+[![LinkedIn](https://www.linkedin.com/in/m-alfarisy97/)
+([https://www.linkedin.com/in/m-alfarisy97/](https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/Linkedin.jpg))]
 
 <hr>
 
